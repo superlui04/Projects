@@ -1,12 +1,3 @@
-# Luisa Portfolio
-
-- 👋 Hi, I’m @superlui04
-- 👀 I’m interested in gaming, hiking, books and philosophy subjects
-- 🌱 I’m currently learning data analytics skills
-- 💞️ I’m looking to collaborate on python projects.
-- © [Certification list](https://drive.google.com/drive/folders/1rYKjln0h5IEdWTTBzgATvy-EZxNiwQU5?usp=sharing/)  
-- 📫 You may reach me at luisalichia@gmail.com
-
 # Project list on Data analytics 
 
 ## Business
@@ -71,16 +62,16 @@
 - Performed data cleaning and visualization for various LGU
 - Worked with a team of 3 developer where I was responsible for requirement gathering, data wrangling and data visualization  
 - Leveraged Microsoft office tools and Power BI in the completion of visualization output
-- 
+  
 ## Omdena
-### Project 1: [Predicting Leadership effectiveness on twitter]
+### Project 1: Predicting Leadership effectiveness on twitter
 July-Aug 2023 (Completed Sep 2023)
 - Used twitter as a data collection repository, leveraging roles and title to filter out data collection effort accross Asia, Europe and US  
 - Worked in a team of 10 engineers in the preprocessing, model creation and model evaluation 
 - Leveraged Python for data collection and data cleaning
 
   
-### Project 2: [AI system for Habit Building using Recipes of Soft Skills]
+### Project 2: AI system for Habit Building using Recipes of Soft Skills
 Dec 2022 (Completed Dec 2022)
 - Used various website / forums as data collection source 
 - Worked in a team of 15 engineers in the preprocessing, model creation / manual classification
