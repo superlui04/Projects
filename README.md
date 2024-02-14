@@ -42,7 +42,7 @@
 
 
 
-### Project 2: [ An Exploratory Analysis for Cauayan E-vehicle initiatives ] (https://drive.google.com/file/d/1bqzi5h68Z69CjuNzwqjLL0kZB_22vi83/view?usp=drive_link)
+### Project 2: [An Exploratory Analysis for Cauayan E-vehicle initiatives](https://drive.google.com/file/d/1bqzi5h68Z69CjuNzwqjLL0kZB_22vi83/view?usp=drive_link)
 - Performed related literature review using journals and published news clippings to gain insight on residents sentiments
 - Worked in a team of 3 analysts where I was responsible for data collection and discovered 3 barriers for e-vehicle implementations relating to cost, accessibility,   and sustainability
 - Leveraged Microsoft office tools in the completion of the report
