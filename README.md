@@ -48,6 +48,11 @@
 -	Led the presentation of progress and challenges encountered
 -	Harnessed canva in the creation of report
 
+
+### Project 6: Expense Monitoring Dashboard
+
+-	Perform ETL process by combining multiple data files, performing data quality cleaning, changing data types and creating a dashboard that can give trends and tabular summary for subsequent analysis and budget evaluation
+-	
 ## SGD Projects
 ### Project 1: [Carbon Emission study for Myanmar](https://drive.google.com/file/d/1_5V6qXxjDyhoOAWmRYHzzmC_ygwPb2iQ/view?usp=sharing)
 - Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing the carbon footprint
